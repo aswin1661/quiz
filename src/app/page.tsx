@@ -4,12 +4,7 @@ import Space from "@/components/spacing";
 import { resolve } from "path";
 import { list } from "@/components/details";
 
-export default async function Home() {
-  await new Promise(resolve=>{
-    setTimeout(()=>{
-      resolve("intentional delay")
-    },2000 )
-  })
+export default function Home() {
   return (
     <div className="grid justify-center" >
       <Space/>
