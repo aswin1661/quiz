@@ -32,9 +32,11 @@ export const list: List[] = [
       },
       {
         id: 4,
-        head:"latest in tech news",
-        sub:"2019 Podcast Awards Technology Finalist! Tune in for the latest trending news in tech and gadgets. We search the web for only the newest and coolest news to share with you, even if you are on the go. Welcome to the community and feel free to stay in touch with the show.Electronics & IT Minister Ravi Shankar Prasad believes India’s digital ecosystem will contribute $1 trillion to the $5 trillion economy targeted in five years.",
-        datas:"hello i am a something new thing is four",
+        head:"അസഭ്യം പറഞ്ഞ ഹിന്ദിക്കാരന് മറുപടി അസഭ്യം തന്നെ; ഭൂമിയിലെ ഏറ്റവും മികച്ച എഐ എന്ന വിശേഷണത്തോടെ പുറത്തിറക്കിയ ഗ്രോക് എഐ ചാറ്റ്ബോട്ടിനെച്ചൊല്ലി വിവാദം; അന്വേഷണം പ്രഖ്യാപിച്ച് കേന്ദ്രസര്‍ക്കാര്‍",
+        sub:"from - marunadan malayalee",
+        datas:"ന്യൂഡല്‍ഹി: അമേരിക്കന്‍ ശതകോടീശ്വരന്‍ ഇലോണ്‍ മസ്‌ക്, ഭൂമിയിലെ ഏറ്റവും മികച്ച എഐ എന്ന വിശേഷണത്തോടെ പുറത്തിറക്കിയ ഗ്രോക് എഐ ചാറ്റ്ബോട്ടിനെച്ചൊല്ലി ഇന്ത്യയില്‍ വിവാദം. മസ്‌കിന്റെ ഉടമസ്ഥതയിലുള്ള ആര്‍ട്ടിഫിഷ്യല്‍ ഇന്റലിജന്‍സ് (എഐ) കമ്പനിയായ എക്‌സ്എഐ എന്ന കമ്പനിയാണ് ഗ്രോക് ചാറ്റ്ബോട്ട് വികസിപ്പിച്ചെടുത്തത്.
+
+നിര്‍മിത ബുദ്ധിയില്‍ പ്രവര്‍ത്തിക്കുന്ന ചാറ്റ്ബോട്ട് സങ്കീര്‍ണമായ ചോദ്യങ്ങള്‍ക്കും യുക്തിപരമായും തമാശരൂപേണയും മറുപടികള്‍ നല്‍കുമെന്നായിരുന്നു മസ്‌കിന്റെ അവകാശവാദം. എന്നാലിപ്പോള്‍ ഹിന്ദി ഭാഷയില്‍ ചോദ്യങ്ങള്‍ ചോദിച്ച ഒരു ഉപയോക്താവിന് ലഭിച്ച അധിക്ഷേപകരവും അസഭ്യം കലര്‍ന്നതുമായ മറുപടിയാണ് സമൂഹ മാധ്യമങ്ങളില്‍ നിറയുന്നത്.",
         image: image1,
       },
       {
