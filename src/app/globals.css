@@ -32,11 +32,7 @@
   
   .notification:after {
     position: absolute;
-    content: "";
-    width: 0.25rem;
-    inset: 0.65rem auto 0.65rem 0.5rem;
-    border-radius: 0.125rem;
-    background: var(--gradient);
+    width: 0rem;
     transition: transform 300ms ease;
     z-index: 4;
   }
