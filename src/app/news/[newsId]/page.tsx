@@ -13,7 +13,7 @@ export default async function details({params}:{
                      return newsId.toString() ===  list.id.toString()
 
                   }).map((list)=>(
-                    <Section key={list.id} id={list.id} datas={list.datas} head={list.head} >
+                    <Section key={list.id} id={list.id} datas={list.datas} image={list.image} head={list.head} >
                         </Section>
                     
                   ))
