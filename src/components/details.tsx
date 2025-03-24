@@ -41,9 +41,13 @@ export const list: List[] = [
       },
       {
         id: 5,
-        head:"latest in tech news",
-        sub:"2019 Podcast Awards Technology Finalist! Tune in for the latest trending news in tech and gadgets. We search the web for only the newest and coolest news to share with you, even if you are on the go. Welcome to the community and feel free to stay in touch with the show.Electronics & IT Minister Ravi Shankar Prasad believes India’s digital ecosystem will contribute $1 trillion to the $5 trillion economy targeted in five years.",
-        datas:"hello i am a something new thing is five",
+        head:"ഏപ്രിൽ 1 മുതൽ ഗൂഗിൾ പേ അടക്കമുള്ള യുപിഐ സേവനം ചില ഫോൺ നമ്പറുകളിൽ ലഭ്യമാകില്ല!",
+        sub:"from - mathrubhumi.com",
+        datas:"ന്യൂഡൽഹി: സജീവമല്ലാത്ത മൊബൈൽ നമ്പറുകളിൽ ഏപ്രിൽ ഒന്ന് മുതൽ‌ ബാങ്ക് ആപ്പ്, ഗൂഗിൾ പേ, ഫോൺ പേ, പേടിഎം എന്നിവ അടക്കമുള്ള യുപിഐ സേവനങ്ങൾ ലഭ്യമാക്കില്ല. നാഷണൽ പേയ്മെന്‍റ്സ് കോർപ്പറേഷൻ ഒഫ് ഇന്ത്യ(എൻപിസിഐ)യാണ് പേയ്മെന്‍റ് സർവീസ് പ്രൊവൈഡർമാർക്ക് നിർദേശം നൽകിയിരിക്കുന്നത്. തട്ടിപ്പികളും അനധികൃത പണക്കൈമാറ്റവും ഒഴിവാക്കാനായാണ് ഈ നീക്കം. നിങ്ങളുടെ മൊബൈൽ നമ്പറുകൾ സജീവമാണെന്ന് ഉറപ്പാക്കുന്നതിലൂടെ ഈ പ്രശ്നം പരിഹരിക്കാം.
+
+എന്തുകൊണ്ട് പുതിയ തീരുമാനം
+
+യുപിഐ ലിങ്കിങ് പൂർത്തിയാക്കിയ സജീവമല്ലാത്ത ഫോൺ നമ്പറുകൾക്ക് സുരക്ഷിതത്വം കുറവാണ്. ഉപയോക്താക്കൾ ഫോൺ നമ്പറുകൾ ഡിയാക്റ്റിവേറ്റ് ചെയ്താലും നമ്പർ മാറ്റിയാലും യുപിഐ അക്കൗണ്ടുകൾ സജീവമായി തന്നെ നില നിൽക്കും. അതു കൊണ്ട് തന്നെ ഈ അക്കൗണ്ടുകൾ ദുരുപയോഗം ചെയ്യുവാൻ എളുപ്പമായിരിക്കും. അതിനാലാണ് സജീവമല്ലാത്ത ഫോൺ നമ്പറുകളിലെ യുപിഐ സേവനം ഇല്ലാതാക്കാൻ എൻപിസിഐ നിർദേശിച്ചിരിക്കുന്നത്.",
         image: image1,
       },
   ];
