@@ -1,7 +1,8 @@
-import image1 from "@/assests/news2.webp"
+import image1 from "@/assests/news1.webp"
 import image4 from "@/assests/news4.jpeg"
 import image2 from "@/assests/news2.jpg"
-import image3 from "@/assests/news5.jpg"
+import image3 from "@/assests/news3.jpg"
+import image5 from "@/assests/news5.jpg
 import { StaticImageData } from "next/image";
 type List = {
     head:string;
