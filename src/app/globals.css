@@ -17,7 +17,7 @@
     font-size: 16px;
     border-width:2px;
     border-color: #444444;
-    --gradient: linear-gradient(to bottom, #d0ff00, #09b760, #023647);
+    --gradient: #00FFFFFF;
     --color: #32a6ff
   }
   
