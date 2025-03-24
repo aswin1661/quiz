@@ -18,9 +18,7 @@ export const list: List[] = [
     },
     {
         id: 2,
-        head:"latest in tech news",
-        sub:"2019 Podcast Awards Technology Finalist! Tune in for the latest trending news in tech and gadgets. We search the web for only the newest and coolest news to share with you, even if you are on the go. Welcome to the community and feel free to stay in touch with the show.Electronics & IT Minister Ravi Shankar Prasad believes India’s digital ecosystem will contribute $1 trillion to the $5 trillion economy targeted in five years.",
-        datas:"hello i am a something new thing is two ",
+        head:" ന്യൂഡൽഹി: ഗ്രാമീൺ ഡാക് സേവക് (ജിഡിഎസ്) 2025 ഫലം പ്രസിദ്ധീകരിച്ചു. ഗ്രാമീൺ ഡാക് സേവക് (ജിഡിഎസ്) ജനുവരി 2025 മെറിറ്റ് ലിസ്റ്റ് ആണ് ഇന്ത്യാ പോസ്റ്റ് പുറത്തുവിട്ടിരിക്കുന്നത്. 22 സംസ്ഥാനങ്ങളിലേക്ക് ഷോർട്ട്ലിസ്റ്റ് ചെയ്യപ്പെട്ട ഉദ്യോഗാർഥികളുടെ വിവരങ്ങളാണ് പ്രസിദ്ധീകരിച്ചിരിക്കുന്നത്. ഗ്രാമീൺ ഡാക് സേവക് ഒഴിവുകളിലേക്ക് അപേക്ഷിച്ചവർക്ക് ഇന്ത്യ പോസ്റ്റിന്റെ ഔദ്യോഗിക വെബ്സൈറ്റിലൂടെ മെറിറ്റ് ലിസ്റ്റ് പരിശോധിക്കാം.",
         image: image1,
       },
       {
