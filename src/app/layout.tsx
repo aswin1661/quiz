@@ -4,8 +4,8 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Game",
-  description: "Created by MuLearnUCEK",
+  title: "MediaCon-News",
+  description: "By analysing the influence of news on society, the page aims to promote litracy, Critical thinking, and responsible news consumption,alongside entertaining features.",
 };
 
 export default function RootLayout({
