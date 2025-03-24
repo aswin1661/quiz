@@ -25,9 +25,9 @@ export const list: List[] = [
       },
       {
         id: 3,
-        head:"latest in tech news",
-        sub:"2019 Podcast Awards Technology Finalist! Tune in for the latest trending news in tech and gadgets. We search the web for only the newest and coolest news to share with you, even if you are on the go. Welcome to the community and feel free to stay in touch with the show.Electronics & IT Minister Ravi Shankar Prasad believes India’s digital ecosystem will contribute $1 trillion to the $5 trillion economy targeted in five years.",
-        datas:"hello i am a something new thing is three ",
+        head:"വീഴ്‌വേന്‍ എൻട്ര് നിനൈത്തായോ; 24 മണിക്കൂർ,12.5 മില്യൺ കാഴ്ചക്കാർ; എമ്പുരാന് മുന്നിൽ അജയ്യനായി ആ ചിത്രം",
+        sub:"from - asianet.com",
+        datas:"സോഷ്യൽ മീഡിയയിൽ എങ്ങും മോഹൻലാൽ ചിത്രം എമ്പുരാൻ ആണ് താരം. ബുക്കിം​ഗ് കളക്ഷനുകളെ എല്ലാം ഞെട്ടിച്ച് കൊണ്ട് മുന്നേറുന്ന സിനിമ, മലയാളത്തിൽ പുതു ചരിത്രം കുറിക്കുമെന്നാണ് വിലയിരുത്തുന്നത്. റിലീസിനോട് അനുബന്ധിച്ച് രണ്ട് ദിവസം മുൻപ് ആയിരുന്നു എമ്പുരാന്റെ ട്രെയിലർ റിലീസ് ചെയ്തത്. ഇരുപത്തി നാല് മണിക്കൂറിൽ  6.88 മില്യൺ കാഴ്ചക്കാരെയാണ് ട്രെയിലർ സ്വന്തമാക്കിയത്. എന്നാൽ മലയാളം ട്രെയിലർ ചരിത്രത്തിൽ മുന്നിലുള്ളത് മറ്റൊരു താര ചിത്രമാണ്.",
         image: image1,
       },
       {
